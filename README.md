@@ -5,7 +5,7 @@
 
 O sistema de gestão de clínica veterinária tem como objetivo facilitar o gerenciamento de informações sobre os animais atendidos na clínica, bem como manter registros detalhados de seus históricos médicos. Para isso, o sistema é composto por três classes principais: Animal, Cão, Gato e Clínica.
 
-## Proposta Clínica Veterinaria 💻
+## Proposta Clínica Veterinaria ⚕️
 O sistema Clinica Veterinaria foi desenvolvido com base nas orientações do professor com os seguntes critérios:
 1. **Classe Animal:**:
     - Atributos: nome, espécie, dono.
@@ -23,7 +23,7 @@ O sistema Clinica Veterinaria foi desenvolvido com base nas orientações do pro
     - Métodos: registrar animal, remover registro, listar animais, adicionar histórico médico.
 
 
-## O Sistema
+## O Sistema💻
 Conforme a proposta anterior, obtivemos o seguinte resultado:
 1. **Classe Animal**
 - **Atributos:**
@@ -65,7 +65,7 @@ Conforme a proposta anterior, obtivemos o seguinte resultado:
 5. **Adicionais e Boas Práticas**
 
 
-## Como baixar e instalar o sistema
+## Como baixar e instalar o sistema⬇️
  
 
 
