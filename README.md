@@ -13,10 +13,9 @@ O sistema de gestão de clínica veterinária tem como objetivo facilitar o gere
 
 
 
-## Equipe 
+## Equipe 🥇
 
-- Rafaela Silva
-  [colaborador](https://github.com/rafaelafsilva)
-- Luiz Antonio Guidini
+- Rafaela Silva[Link - Git Hub](https://github.com/rafaelafsilva)
+- Luiz Antonio Guidini 
 - Marcia Guidini
-- Matheus Vítor Martins
+- Matheus Vítor Martins [Link - Git Hub](https://github.com/CafeMatte)
