@@ -25,9 +25,9 @@ O sistema Clinica Veterinaria foi desenvolvido com base nas orientações do pro
 
 ## O Sistema
 Conforme a proposta anterior, obtivemos o seguinte resultado:
-- **1. Classe Animal**
+1. **Classe Animal**
 - **Atributos:**
-    - nome (string): Nome do animal.
+    - **`nome`** (string): Nome do animal.
     - espécie (string): Espécie do animal (por exemplo, "Cão" ou "Gato").
     -  dono (string): Nome do dono do animal.
 - **Métodos:**
@@ -38,21 +38,21 @@ Conforme a proposta anterior, obtivemos o seguinte resultado:
     - getDono(): Retorna o nome do dono do animal.
     - setDono(dono): Define o nome do dono do animal.
     - toString(): Método que converte os atributos em uma representação de string.
-**2. Classe Cão (Herda de Animal)**
+2. **Classe Cão (Herda de Animal)**
 - **Atributos adicionais:**
     - raça (string): Raça do cão.
 - **Métodos adicionais:**
     - getRaça(): Retorna a raça do cão.
     - setRaça(raça): Define a raça do cão.
     - toString(): Sobrescreve o método toString() da classe Animal para incluir a raça.
-**3. Classe Gato (Herda de Animal)**
+3. **Classe Gato (Herda de Animal)**
 - **Atributos adicionais**:
     - tipoPelagem (string): Tipo de pelagem do gato.
 - **Métodos adicionais:**
     - getTipoPelagem(): Retorna o tipo de pelagem do gato.
     - setTipoPelagem(tipoPelagem): Define o tipo de pelagem do gato.
     - toString(): Sobrescreve o método toString() da classe Animal para incluir o tipo de pelagem.
- **4. Classe Clínica**
+4. **Classe Clínica**
 - **Atributos:**
     - animaisRegistrados (lista): Lista de objetos do tipo Animal.
     - historicosMedicos (dicionário): Dicionário onde as chaves são os animais e os valores são listas de históricos médicos associados a cada animal.
