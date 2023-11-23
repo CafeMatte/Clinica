@@ -4,3 +4,16 @@
 ## Descrição
 
 O sistema de gestão de clínica veterinária tem como objetivo facilitar o gerenciamento de informações sobre os animais atendidos na clínica, bem como manter registros detalhados de seus históricos médicos. Para isso, o sistema é composto por três classes principais: Animal, Cão, Gato e Clínica.
+
+
+
+
+
+
+
+## Equipe 
+
+- Rafaela Silva
+- Luiz Antonio Guidini
+- Marcia Guidini
+- Matheus Vítor Martins
