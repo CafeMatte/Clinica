@@ -5,7 +5,22 @@
 
 O sistema de gestão de clínica veterinária tem como objetivo facilitar o gerenciamento de informações sobre os animais atendidos na clínica, bem como manter registros detalhados de seus históricos médicos. Para isso, o sistema é composto por três classes principais: Animal, Cão, Gato e Clínica.
 
-ioewhfekjrgh
+## O Sistema
+O sistema Clinica Veterinaria foi desenvolvido com base nas orientações do professor com os seguntes critérios:
+1. **Classe Animal**:
+    - Atributos: nome, espécie, dono.
+    - Métodos: getters, setters e **`toString()`**.
+2. **Classe Cão**:
+    - Herda de Animal.
+    - Atributos: raça.
+    - Métodos: getters e setters para os novos atributos e sobrescreva o método **`toString()`**.
+3. **Classe Gato**:
+    - Herda de Animal.
+    - Atributos: tipo de pelagem.
+    - Métodos: getters e setters para os novos atributos e sobrescreva o método **`toString()`**.
+4. **Classe Clínica**:
+    - Atributos: lista de animais registrados e seus históricos médicos.
+    - Métodos: registrar animal, remover registro, listar animais, adicionar histórico médico.
 
 
 
