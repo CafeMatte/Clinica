@@ -62,6 +62,9 @@ Conforme a proposta anterior, obtivemos o seguinte resultado:
     - **`listarAnimais():`** Retorna a lista de animais registrados.
     - **`adicionarHistoricoMedico (animal, historico):`** Adiciona um histórico médico à lista correspondente ao animal.
     - **`getHistoricoMedico(animal)':`** Retorna o histórico médico associado a um animal.
+
+
+## Como baixar e instalar o sistema
  
 
 
