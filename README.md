@@ -39,9 +39,9 @@ Conforme a proposta anterior, obtivemos o seguinte resultado:
     - setDono(dono): Define o nome do dono do animal.
     - toString(): Método que converte os atributos em uma representação de string.
 ## 2. Classe Cão (Herda de Animal)
-    - **Atributos adicionais:**
+- **Atributos adicionais:**
     - raça (string): Raça do cão.
-    - **Métodos adicionais:**
+- **Métodos adicionais:**
     - getRaça(): Retorna a raça do cão.
     - setRaça(raça): Define a raça do cão.
     - toString(): Sobrescreve o método toString() da classe Animal para incluir a raça.
