@@ -25,7 +25,7 @@ O sistema Clinica Veterinaria foi desenvolvido com base nas orientações do pro
 
 ## O Sistema
 Conforme a proposta anterior, obtivemos o seguinte resultado:
-**1. Classe Animal**
+- **1. Classe Animal**
 - **Atributos:**
     - nome (string): Nome do animal.
     - espécie (string): Espécie do animal (por exemplo, "Cão" ou "Gato").
