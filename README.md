@@ -82,6 +82,6 @@ Ao decorrer do desenvolvimento sentimos a necessidade de adicionar outras classe
 ## Equipe 🥇
 
 - Rafaela Silva [Link - Git Hub](https://github.com/rafaelafsilva)
-- Luiz Antonio Guidini 
-- Marcia Guidini
+- Luiz Antonio Guidini [Link - Git HUb](https://github.com/LuizGuidini)
+- Marcia Guidini [Link - Git Hub](https://github.com/MarciaGuidini)
 - Matheus Vítor Martins [Link - Git Hub](https://github.com/CafeMatte)
