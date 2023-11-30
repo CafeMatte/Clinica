@@ -82,9 +82,10 @@ Ao decorrer do desenvolvimento sentimos a necessidade de adicionar outras classe
     - **`toString():`** Método que converte os atributos em uma representação de string.
 
   2. **Tratamento de exceções**
+     
  Uso do try e catch para tratar os erros que podem acontecer ao ler o id do Animal nos seguintes métodos:
   - **Leitura de ID no Registrar Animal**
-  - 
+    
   - **Leitura do ID no Remover Animal**
  
   - **Leitura do ID no Adicionar Histórico**
