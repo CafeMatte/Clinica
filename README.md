@@ -66,8 +66,32 @@ Conforme a proposta anterior, obtivemos o seguinte resultado:
 
 ## Adicionais e Boas Práticas
 Ao decorrer do desenvolvimento sentimos a necessidade de adicionar outras classes e boas práticas para melhor compreensão e correção de bugs do sistema.
-1. **Classe Adicionar Histórico Médico:**
+1. **Classe Histórico Médico:**
 
+- **Atributos:**
+    - **`animal`** (Animal): puxará as informaçoes do pet.
+    - **`Historico`** (String): Informará informação relevante da vida médica do pet.
+    - **`DataHoraRegistro`** (LocalDateTime): Informará a entrada do PET ao consultório.
+- **Métodos:**
+    - **`getAnimal():`** Retorna animal.
+    - **`setNome(Animal animal):`** Define animal.
+    - **`getHistorico():`** Retorna o historico.
+    - **`setHistorico(String historico)`**: Define qual o histórico.
+    - **`getDataHoraRegistro():`** Define a data e hora do registro do Animal ao consultório.
+    - **`setDataHoraRegistro(LocalDateTime DataHoraRegistro):`** Define a data e hora do registro do Animal .
+    - **`toString():`** Método que converte os atributos em uma representação de string.
+
+  2. **Tratamento de exceções**
+ Uso do try e catch para tratar os erros que podem acontecer ao ler o id do Animal nos seguintes métodos:
+  - **Leitura de ID no Registrar Animal**
+  - 
+  - **Leitura do ID no Remover Animal**
+ 
+  - **Leitura do ID no Adicionar Histórico**
+ 
+  Nesses casos o usuário pode tentar digitar uma String no ID. Caso aconteça, o sistema retorna uma mensagem de erro e pede para digitar novamente.
+
+    
 
 
 ## Como baixar e instalar o sistema⬇️
