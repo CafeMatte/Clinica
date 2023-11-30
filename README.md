@@ -65,12 +65,50 @@ Conforme a proposta anterior, obtivemos o seguinte resultado:
 
 
 ## Adicionais e Boas Práticas
-Ao decorrer do desenvolvimento sentimos a necessidade de adicionar outras classes e boas práticas etc etc etc
+Ao decorrer do desenvolvimento sentimos a necessidade de adicionar outras classes e boas práticas para melhor compreensão e correção de bugs do sistema.
 1. **Classe Histórico Médico:**
 
 
 
 ## Como baixar e instalar o sistema⬇️
+
+1. **Baixe o Código do Repositório GitHub**
+  - Abra o navegador e acesse o repositório no GitHub: [https://github.com/LuizGuidini/ProjetoClinica/tree/main/ClinicaVeterinaria]
+  - Clique no botão verde "Code" e selecione a opção "Download ZIP".
+  - Após o download, extraia o conteúdo do arquivo ZIP para o diretório desejado no seu computador.
+
+
+2. **Abra o Projeto no IntelliJ IDEA**
+ - Abra o IntelliJ IDEA.
+ - Clique em "Open" ou "Abrir Projeto".
+ - Navegue até o diretório onde você extraiu os arquivos do repositório.
+ - Selecione a pasta do projeto e clique em "OK" ou "Abrir".
+
+   
+
+
+
+3. **Configure o SDK do Projeto (se necessário)**
+ - Se o IntelliJ IDEA solicitar a configuração do SDK, selecione a versão do Java instalada em seu sistema.
+ - Clique em "OK" ou "Aplicar".
+
+
+
+4. **Execute a Aplicação**
+ - Encontre a classe ClinicaVeterinaria no explorador de projetos.
+ - Clique com o botão direito na classe e escolha "Run ClinicaVeterinaria.main()".
+
+
+## Interagindo com a Aplicação
+A aplicação será executada no console do IntelliJ IDEA e será apresentado um Menu com as seguintes opções:
+
+Opção 1-Registrar Animal: Ao escolher Registrar Animal você foenecerá os dados do pet.
+Opção 2-Remover Animal: Ao seloecionar Remover Animal, você removera os dados do pet do sistema.
+Opção 3-Listar Animais: Ao escolher Listar Animais, o sistema mostrará na tela os dados dos animais cadastrados.
+Opção 4-Adicionar Histórico Médico: Com esta opção o usuário tem pode adicionar um histórico médico ao animal cadastrado.
+Opção 5-Listar Histórico Médico: Ao escolher esta opção o usuário poderá imprmir o Histórico Médico dos animais cadastrados.
+Opção 9-Sair: O usuário sai do sistema.
+
  
 
 
