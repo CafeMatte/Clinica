@@ -66,7 +66,7 @@ Conforme a proposta anterior, obtivemos o seguinte resultado:
 
 ## Adicionais e Boas Práticas
 Ao decorrer do desenvolvimento sentimos a necessidade de adicionar outras classes e boas práticas para melhor compreensão e correção de bugs do sistema.
-1. **Classe Histórico Médico:**
+1. **Classe Adicionar Histórico Médico:**
 
 
 
